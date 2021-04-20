@@ -1,6 +1,6 @@
 {
   "name": "@monotest/package2",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "monorepo test package1",
   "main": "index.js",
   "files": [
@@ -14,9 +14,5 @@
   },
   "keywords": [],
   "author": "debian4tw",
-  "license": "ISC",
-  "dependencies": {
-  },
-  "devDependencies": {
-  }
+  "license": "ISC"
 }
