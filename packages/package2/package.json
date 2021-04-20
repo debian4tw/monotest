@@ -1,5 +1,5 @@
 {
-  "name": "@monotest/package2",
+  "name": "@monotest2/package2",
   "version": "0.0.1",
   "description": "monorepo test package1",
   "main": "index.js",
