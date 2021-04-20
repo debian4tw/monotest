@@ -6,6 +6,7 @@
   "files": [
     "./"
   ],
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/debian4tw/monotest.git",
